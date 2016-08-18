@@ -48,7 +48,7 @@ Service workers:
      launched push notifications globally  also booking.com and also jumia who added push notifications e.g. when
      shopping cart was abandoned, got 38% open rate of push notifications (9x better rate than email))
 
-
+* Debugging info https://docs.google.com/document/d/160EgIx-G68pfcKu-jeafAmXViInJin55Dx8IWPTXXXw/view#
 * install flow:
   * register service from web page
   * if reg successfull it installs and then in the install phase can prefetch resources, add them to cache
