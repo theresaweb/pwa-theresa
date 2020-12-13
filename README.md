@@ -6,10 +6,15 @@
 * https is required http://www.chromium.org/Home/chromium-security/prefer-secure-origins-for-powerful-new-features
 * NOTES FROM CONFERENCE:
 native vs web
+
 user has to manage native apps
+
 web safer
+
 web has more reach
+
 users are not adding new apps to their phone
+
 point: web apps provide quality of user experience
 
 User experience needs to be:
