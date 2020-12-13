@@ -5,33 +5,27 @@
 * App Shell is cached - these are the core files that provide basic UI and functionality and uses local storage instead of db for ease, not reccomended for prod
 * https is required http://www.chromium.org/Home/chromium-security/prefer-secure-origins-for-powerful-new-features
 * NOTES FROM CONFERENCE:
-native vs web
-
-user has to manage native apps
-
-web safer
-
-web has more reach
-
-users are not adding new apps to their phone
-
-point: web apps provide quality of user experience
-
-User experience needs to be:
+  * native vs web
+  * user has to manage native apps
+  * web safer
+  * web has more reach
+  * users are not adding new apps to their phone
+  * point: web apps provide quality of user experience
+  * User experience needs to be:
 
 * reliable
-we assume we're always online
+  * we assume we're always online
 
 * Performant
-20% users drop off after 3 seconds
-40% users abandon sites that take longer than 3 seconds to load
+  * 20% users drop off after 3 seconds
+  * 40% users abandon sites that take longer than 3 seconds to load
 
 * Engaging
-web push notifications, 
-easy to add to home screen
-full screen themeing (immersive)
+  * web push notifications, 
+  * easy to add to home screen
+  * full screen themeing (immersive)
 
-examples:
+# examples:
 * wapo.com/pwa  washtington post, aliexpress (82% inc in conversion on ios)
 * smooth scrolling, responsive
 * prompts to add to homescreen
